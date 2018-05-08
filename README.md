@@ -1,3 +1,3 @@
-# HelloWorld
-Hi this ihs the second edits
+HelloWorld
+Hi, This is the second edits
 I like JAVA
